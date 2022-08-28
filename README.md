@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![MY StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10431631&layout=compact&theme=dark)](https://stackoverflow.com/users/10431631/athsoatle)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebriussenex&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![MY StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10431631&layout=compact&theme=dark)](https://stackoverflow.com/users/10431631/athsoatle)
 
 
 Hire me for **INCREDIBLE** code improvements **LIKE THIS**
